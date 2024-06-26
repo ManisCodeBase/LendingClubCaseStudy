@@ -43,10 +43,13 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1: Higher loan amounts are associated with a higher probability of loan default.
-- Conclusion 2: Borrowers with lower annual incomes are more likely to default on loans.
-- Conclusion 3: Longer employment length generally correlates with better loan performance.
-- Conclusion 4: The debt-to-income ratio is a significant predictor of loan status.
+- Conclusion 1: Applicants with shorter Loan Terms are more likely to default
+- Conclusion 2: Applicants with Annual income of less than 120,000 are more likely to default
+- Conclusion 3: Applicants with a DTI ratio of more than 10% have struggled to replay the loan most
+- Conclusion 4: Verification Status has no impact on Defaulter rate, as verified applicants are the most who defaulted on repayment
+- Conclusion 5: Interest Rate has a positive correlation with loan defaults. Applicants are more likely to default with higher interest rate.
+- Conclusion 6: Grades have a positive correlation with defaulter percentage. Applicants with lower grades are more likely to default.
+- Conclusion 7: Applicants with a Rented home are slightly more likely to default than applicants with Mortgaged or Own homes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
