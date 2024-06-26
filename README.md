@@ -21,25 +21,14 @@
 - Columns with a high percentage of missing values (threshold set at 40%) were dropped.
 - Unnecessary columns such as 'id' and 'member_id' were removed to streamline the analysis.
 
-
-## Univariate Analysis
-- Distribution plots were generated for numerical variables to understand their distributions.
-- Count plots were created for categorical variables to visualize their frequency distributions.
-
-
 ## Bivariate Analysis
-- Box plots were used to examine the relationship between numerical variables and loan status.
+- Box plots examined the relationship between numerical variables and loan status.
 - Count plots were utilized to explore the relationship between categorical variables and loan status.
 
 
 ## Multivariate Analysis
-- The correlation matrix of numerical variables was computed and visualized using a heatmap to identify significant correlations.
-
-
-## Feature Engineering
-- Debt-to-Income Ratio: A new feature 'dti_ratio' was created by dividing the annual income by the loan amount.
-- Employment Length: Employment length was converted to a numeric format to facilitate analysis.
-
+- The correlation matrix of numerical variables was computed and visualized using a heatmap to identify significant correlations
+- 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
